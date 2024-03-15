@@ -12,7 +12,8 @@ Dự án đươc hình thành trong quá trình tôi tìm hiểu về Lập trì
   +  Tạo đề thi từ câu hỏi có sẵn hoặc bộ câu hỏi mới và đề được chỉ định sinh viên cụ thể hoặc nhóm sinh viên
   +  Giới hạn số người thi trực tuyến cũng 1 lúc trên 1 bộ đề
   +  Quản lý sinh viên
-Đối với Sinh Viên ( Sinh viên có thể tham gia các bài thi bằng mật khẩu giáo viên cấp )
+
+  Đối với Sinh Viên ( Sinh viên có thể tham gia các bài thi bằng mật khẩu giáo viên cấp )
   + Đăng nhập
   + Chọn bài thi
   + Thực hiện thi
