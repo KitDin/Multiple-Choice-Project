@@ -5,6 +5,7 @@ Dự án được xây dựng là 1 Ứng dụng desktop Thi trắc nghiệm cho
 Dự án được xây dựng bằng ngôn ngữ java ở backend, thư viện giao diện người dùng javaSwing và hệ quản trị cơ sỡ dữ liệu MySQL.
 
 Dự án đươc hình thành trong quá trình tôi tìm hiểu về Lập trình hướng đối tượng (OOP). Áp dụng các kiến thức để xây dựng 1 ứng dụng thi trắc nghiệm với các tính năng như :
+  
   Đối với Giáo Viên (Mỗi giáo viên chỉ dại duy nhất 1 môn) :
   +  Đăng nhập
   +  Cấp tài khoản cho sinh viên
